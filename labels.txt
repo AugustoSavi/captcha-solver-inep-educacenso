@@ -1,0 +1,37 @@
+0 Arvore
+1 Avião
+2 Balão
+3 BAndeira
+4 Cadeado
+5 Cadeira
+6 Calça
+7 Câmera
+8 Caminhão
+9 Camiseta
+10 Carro
+11 Casa
+12 Chave
+13 Clip
+14 Computador
+15 Envelope
+16 Etiqueta
+17 Folha
+18 Gato
+19 Grafico
+20 Guarda chuva
+21 Homem
+22 Impresora
+23 Lampada
+24 Lupa
+25 Mulher
+26 Nota musical
+27 Nuvem
+28 óculus de sol
+29 Olho
+30 Pasta
+31 Pegada
+32 Pencil
+33 Planeta
+34 Relógio
+35 Robô
+36 Tesoura

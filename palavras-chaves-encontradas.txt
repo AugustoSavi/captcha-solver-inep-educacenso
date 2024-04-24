@@ -1,0 +1,37 @@
+-[] Calça
+-[] Olho
+-[] Nuvem
+-[] Robô
+-[] Balões
+-[] Etiqueta
+-[] Lâmpada
+-[] Caminhão
+-[] Avião
+-[] Homem
+-[] Impressora
+-[] Cadeira
+-[] Carro
+-[] Tesoura
+-[] Gráfico
+-[] Envelope
+-[] Clip
+-[] Cadeado
+-[] Óculos de sol
+-[] Pincel
+-[] Mulher
+-[] Gato
+-[] Folha
+-[] Pasta
+-[] Guarda Chuva
+-[] Camiseta
+-[] Nota musical
+-[] Lupa
+-[] Planeta
+-[] Casa
+-[] Relógio
+-[] Chave
+-[] Câmera
+-[] Árvore
+-[] Computador
+-[] Pegada
+-[] Bandeira
